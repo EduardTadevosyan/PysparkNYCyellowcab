@@ -27,22 +27,21 @@ The cleaned and enriched dataset is ready for visual analytics, reporting, and p
 
 ## 🖼 Sample Visual Outputs
 
-Below are some visual summaries generated from the analysis:
+Below are some visual summaries from the analysis:
 
 ### ⏱️ Average Trip Duration, Distance & Fare by Hour
 Hourly breakdown of trips showing how duration, distance, and fare fluctuate across the day.
 
-*Insert screenshot here*
+![Average Trip Data](https://github.com/EduardTadevosyan/PysparkNYCyellowcab/blob/main/Images/The_avg_data.png)
 
 ### 📅 Trip Count by Day
 Illustrates how the number of daily trips varied throughout the month of January 2025.
 
-*Insert screenshot here*
+![Trip Count by Day](https://github.com/EduardTadevosyan/PysparkNYCyellowcab/blob/main/Images/Total_trips.png)
 
 ### 📍 Top 10 Pickup Zones
 A ranked summary of the most popular pickup zones across the city during the month.
 
-*Insert screenshot here*
+![Top 10 Pickup Zones](https://github.com/EduardTadevosyan/PysparkNYCyellowcab/blob/main/Images/Top_10_pickup_zones.png)
 
 ---
-
