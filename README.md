@@ -6,8 +6,8 @@ Although the dataset contains only around 50,000 rows—well within the capabili
 
 ## 📁 Datasets
 
-- [`yellow_tripdata_2025-01.parquet`](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf): Yellow cab trip records (downloaded from the [NYC TLC Trip Record Data portal](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page))
-- [`taxi-zone-lookup.csv`](https://www.nyc.gov/assets/tlc/downloads/pdf/taxi_zone_lookup.csv): Location metadata with zone and borough info
+- [`yellow_tripdata_2025-01.parquet`](https://github.com/EduardTadevosyan/PysparkNYCyellowcab/blob/main/taxi-zone-lookup.xls): Yellow cab trip records 
+- [`taxi-zone-lookup.csv`](https://github.com/EduardTadevosyan/PysparkNYCyellowcab/blob/main/taxi-zone-lookup.xls): Location metadata with zone and borough info
 
 ## 🛠 Tech Stack
 
